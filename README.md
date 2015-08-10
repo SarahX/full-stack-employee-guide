@@ -1,5 +1,5 @@
 # Full-stack-employee-guide
-Want to be a full stack employee? Have fun looking through these resources. And best of all, everything listed here is free (as in free pizza).
+Want to be a full stack employee? Have fun looking through these resources. And best of all, everything listed here is free (as in free pizza). Feel free to make changes.
 
 Inspired by, amongst all things, this Medium post: https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1
 
@@ -22,5 +22,7 @@ MySQL Docs: If you have time, or get confused, check out the documentation for M
 
 YouTube Playlist: Watch people use MySQL . https://www.youtube.com/playlist?list=PL9352E58884CD2B38&feature=mh_lolz
 
+###MongoDB
+TutorialsPoint: Similar to W3Schools in terms of layout. Covers simple and more advanced MongoDB topics. http://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm
 
 
